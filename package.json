@@ -1,0 +1,24 @@
+{
+  "name": "isptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ispTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekemper/ispTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekemper/ispTest/issues"
+  },
+  "homepage": "https://github.com/ekemper/ispTest#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment-timezone": "^0.5.28",
+    "node-cron": "^2.0.3"
+  }
+}
